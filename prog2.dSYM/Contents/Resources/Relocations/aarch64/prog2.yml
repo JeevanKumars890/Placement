@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Applications/code/placement/prog2'
+relocations:     []
+...
